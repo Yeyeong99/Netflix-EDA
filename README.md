@@ -2,6 +2,20 @@
 - Basic EDA for Netflix, Disney+, Amazon Prime, HULU
 - EDA and correlation analysis using Netflix Data
 
+### 참고자료
+1. [🔴Netflix Visualizations, Recommendation, EDA🍿](https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda)
+2. [Netflix Data Visualization - Target Ages](https://www.kaggle.com/joshuaswords/netflix-data-visualization)
+3. [IMDb Top 1000 dataset](https://www.kaggle.com/hrishabhtiwari/imdb-top-1000-movies-dataset)
+
+### Dataset
+1. [Amazon Prime Video Movies and TV Shows](https://www.kaggle.com/shivamb/amazon-prime-movies-and-tv-shows)
+2. [Disney+ Movies and TV Shows](https://www.kaggle.com/shivamb/disney-movies-and-tv-shows)
+3. [Netflix Prime Video Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows)
+4. [Hulu Movies and TV Shows](https://www.kaggle.com/shivamb/hulu-movies-and-tv-shows)
+5. [Netflix Revenue from 2018 to 2020](https://www.kaggle.com/pariaagharabi/netflix2020)
+6. [IMDB Top 10](https://www.kaggle.com/omarhanyy/imdb-top-1000)
+7. [Latest Netflix data with 26+ joined attributes](https://www.kaggle.com/ashishgup/netflix-rotten-tomatoes-metacritic-imdb)
+
 ### 1. 넷플릭스, 디즈니+, 아마존 프라임, HULU 데이터 비교
 
 각 장르가 타겟으로 삼는 시청 연령의 분포 분석
